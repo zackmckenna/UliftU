@@ -1,20 +1,22 @@
 import React from 'react'
 import { Container, Jumbotron, Button, ListGroup, ListGroupItem } from 'react-bootstrap'
 import { Link } from 'react-router-dom'
+import headerImage from '../assets/action-athlete-barbell-841130.png'
 
 const Home = () => {
   return (
     <>
       <Container>
-      <Jumbotron className='mt-5'>
-        <h1>UliftU</h1>
-        <p>
-          UliftU prepares re-entering citizens for meaningful careers in the fitness industry
-        </p>
-        <p>
-          <Button variant="primary">Learn how</Button>
-        </p>
-      </Jumbotron>
+        <Jumbotron className='mt-5'>
+
+          <h1>UliftU</h1>
+          <p>
+            UliftU prepares re-entering citizens for meaningful careers in the fitness industry
+          </p>
+          <p>
+            <Button variant="primary">Learn how</Button>
+          </p>
+        </Jumbotron>
         <h1>Our Mission</h1>
         <p>
           Generate employment opportunties and promote wellness in underserved communities.

@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { Navbar, Nav, NavDropdown, Form, FormControl, Button } from 'react-bootstrap'
 import logo from './assets/logo-black.svg'
+import headerImage from './assets/action-athlete-barbell-841130.png'
 
 import { HashRouter as Router,
   Link,
@@ -23,14 +24,15 @@ const App = (props) => {
     <Router basename={process.env.PUBLIC_URL}>
       <div className="App">
         <Navbar bg="dark" expand="lg">
-          <Navbar.Brand href="#home"><img height='30' width='70' src={logo}/></Navbar.Brand>
+          <Navbar.Brand ><Link to='/'><img height='30' width='70' src={logo}/></Link></Navbar.Brand>
           <Navbar.Toggle aria-controls="basic-navbar-nav" />
           <Navbar.Collapse id="basic-navbar-nav">
             <Nav className="mr-auto">
-              <Nav.Link><Link to='/'>Home</Link></Nav.Link>
-              <Nav.Link><Link to='/program'>Program</Link></Nav.Link>
-              <Nav.Link><Link to='/join'>Join</Link></Nav.Link>
-              <NavDropdown title="About" id="basic-nav-dropdown">
+              <Nav.Link><Link to='/'>About us</Link></Nav.Link>
+              <Nav.Link><Link to='/program'>Training Program</Link></Nav.Link>
+              <Nav.Link><Link to='/join'>Classes and Events</Link></Nav.Link>
+              <Nav.Link><Link to='/join'>Support UliftU</Link></Nav.Link>
+              <NavDropdown title="Dropdown" id="basic-nav-dropdown">
                 <NavDropdown.Item href="#action/3.1"><Link to='/staff'>Staff</Link></NavDropdown.Item>
                 <NavDropdown.Item href="#action/3.2"><Link to='/mission'>Mission</Link></NavDropdown.Item>
                 <NavDropdown.Item href="#action/3.3"><Link to='/contact'>Contact</Link></NavDropdown.Item>
