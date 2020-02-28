@@ -19,7 +19,7 @@ import './App.css';
 
 const App = (props) => {
   return (
-    <Router>
+    <Router basename={process.env.PUBLIC_URL}>
       <div className="App">
         <Navbar bg="light" expand="lg">
           <Navbar.Brand href="#home">uliftu</Navbar.Brand>
