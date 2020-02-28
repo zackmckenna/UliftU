@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/github.io/UliftU/static/css/main.e275826e.chunk.css",
-    "main.js": "/github.io/UliftU/static/js/main.a74093dd.chunk.js",
-    "main.js.map": "/github.io/UliftU/static/js/main.a74093dd.chunk.js.map",
-    "runtime-main.js": "/github.io/UliftU/static/js/runtime-main.2e84cf07.js",
-    "runtime-main.js.map": "/github.io/UliftU/static/js/runtime-main.2e84cf07.js.map",
-    "static/css/2.47e06e2e.chunk.css": "/github.io/UliftU/static/css/2.47e06e2e.chunk.css",
-    "static/js/2.9a6930f8.chunk.js": "/github.io/UliftU/static/js/2.9a6930f8.chunk.js",
-    "static/js/2.9a6930f8.chunk.js.map": "/github.io/UliftU/static/js/2.9a6930f8.chunk.js.map",
-    "index.html": "/github.io/UliftU/index.html",
-    "precache-manifest.167ec3e9c06046204f4229ee07a56879.js": "/github.io/UliftU/precache-manifest.167ec3e9c06046204f4229ee07a56879.js",
-    "service-worker.js": "/github.io/UliftU/service-worker.js",
-    "static/css/2.47e06e2e.chunk.css.map": "/github.io/UliftU/static/css/2.47e06e2e.chunk.css.map",
-    "static/css/main.e275826e.chunk.css.map": "/github.io/UliftU/static/css/main.e275826e.chunk.css.map",
-    "static/js/2.9a6930f8.chunk.js.LICENSE.txt": "/github.io/UliftU/static/js/2.9a6930f8.chunk.js.LICENSE.txt"
+    "main.css": "/UliftU/static/css/main.e275826e.chunk.css",
+    "main.js": "/UliftU/static/js/main.4805f3e3.chunk.js",
+    "main.js.map": "/UliftU/static/js/main.4805f3e3.chunk.js.map",
+    "runtime-main.js": "/UliftU/static/js/runtime-main.692f8196.js",
+    "runtime-main.js.map": "/UliftU/static/js/runtime-main.692f8196.js.map",
+    "static/css/2.47e06e2e.chunk.css": "/UliftU/static/css/2.47e06e2e.chunk.css",
+    "static/js/2.9a6930f8.chunk.js": "/UliftU/static/js/2.9a6930f8.chunk.js",
+    "static/js/2.9a6930f8.chunk.js.map": "/UliftU/static/js/2.9a6930f8.chunk.js.map",
+    "index.html": "/UliftU/index.html",
+    "precache-manifest.d9e1bd773df82179c547df387245cc1e.js": "/UliftU/precache-manifest.d9e1bd773df82179c547df387245cc1e.js",
+    "service-worker.js": "/UliftU/service-worker.js",
+    "static/css/2.47e06e2e.chunk.css.map": "/UliftU/static/css/2.47e06e2e.chunk.css.map",
+    "static/css/main.e275826e.chunk.css.map": "/UliftU/static/css/main.e275826e.chunk.css.map",
+    "static/js/2.9a6930f8.chunk.js.LICENSE.txt": "/UliftU/static/js/2.9a6930f8.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.2e84cf07.js",
+    "static/js/runtime-main.692f8196.js",
     "static/css/2.47e06e2e.chunk.css",
     "static/js/2.9a6930f8.chunk.js",
     "static/css/main.e275826e.chunk.css",
-    "static/js/main.a74093dd.chunk.js"
+    "static/js/main.4805f3e3.chunk.js"
   ]
 }
