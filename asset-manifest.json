@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/github.io/UliftU/static/css/main.e275826e.chunk.css",
+    "main.js": "/github.io/UliftU/static/js/main.cbb7f13c.chunk.js",
+    "main.js.map": "/github.io/UliftU/static/js/main.cbb7f13c.chunk.js.map",
+    "runtime-main.js": "/github.io/UliftU/static/js/runtime-main.2e84cf07.js",
+    "runtime-main.js.map": "/github.io/UliftU/static/js/runtime-main.2e84cf07.js.map",
+    "static/css/2.47e06e2e.chunk.css": "/github.io/UliftU/static/css/2.47e06e2e.chunk.css",
+    "static/js/2.9a6930f8.chunk.js": "/github.io/UliftU/static/js/2.9a6930f8.chunk.js",
+    "static/js/2.9a6930f8.chunk.js.map": "/github.io/UliftU/static/js/2.9a6930f8.chunk.js.map",
+    "index.html": "/github.io/UliftU/index.html",
+    "precache-manifest.966aa9c97b010c839dcc47fcfa18cc4b.js": "/github.io/UliftU/precache-manifest.966aa9c97b010c839dcc47fcfa18cc4b.js",
+    "service-worker.js": "/github.io/UliftU/service-worker.js",
+    "static/css/2.47e06e2e.chunk.css.map": "/github.io/UliftU/static/css/2.47e06e2e.chunk.css.map",
+    "static/css/main.e275826e.chunk.css.map": "/github.io/UliftU/static/css/main.e275826e.chunk.css.map",
+    "static/js/2.9a6930f8.chunk.js.LICENSE.txt": "/github.io/UliftU/static/js/2.9a6930f8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2e84cf07.js",
+    "static/css/2.47e06e2e.chunk.css",
+    "static/js/2.9a6930f8.chunk.js",
+    "static/css/main.e275826e.chunk.css",
+    "static/js/main.cbb7f13c.chunk.js"
+  ]
+}
