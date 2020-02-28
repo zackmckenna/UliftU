@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5cec8cd1a035a1be648c14051b445bb6",
+    "revision": "414041e77eb9516cd0b6293753a1d98e",
     "url": "/github.io/UliftU/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/github.io/UliftU/static/css/2.47e06e2e.chunk.css"
   },
   {
-    "revision": "c5c1c7b30acf208d3249",
+    "revision": "19726e2dc2cd9513458e",
     "url": "/github.io/UliftU/static/css/main.e275826e.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/github.io/UliftU/static/js/2.9a6930f8.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c5c1c7b30acf208d3249",
-    "url": "/github.io/UliftU/static/js/main.cbb7f13c.chunk.js"
+    "revision": "19726e2dc2cd9513458e",
+    "url": "/github.io/UliftU/static/js/main.a74093dd.chunk.js"
   },
   {
     "revision": "54224e7575089a4fc4da",
