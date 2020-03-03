@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2fc2ad1dd5c2fd1e5113c34bfc3cc627",
+    "revision": "c5680786459a63be3f75bbd5a1d53525",
     "url": "/UliftU/index.html"
   },
   {
-    "revision": "a7de8f46b5f7ecd1d7df",
+    "revision": "e798274078c5dff9ff75",
     "url": "/UliftU/static/css/2.47e06e2e.chunk.css"
   },
   {
-    "revision": "5dbcff3d66eadec11977",
-    "url": "/UliftU/static/css/main.e275826e.chunk.css"
+    "revision": "318791b4612664e40e86",
+    "url": "/UliftU/static/css/main.3c863b1d.chunk.css"
   },
   {
-    "revision": "a7de8f46b5f7ecd1d7df",
-    "url": "/UliftU/static/js/2.98eb6364.chunk.js"
+    "revision": "e798274078c5dff9ff75",
+    "url": "/UliftU/static/js/2.7722ed7e.chunk.js"
   },
   {
     "revision": "df8be702f0cc9d299c0ff42ca03d3e40",
-    "url": "/UliftU/static/js/2.98eb6364.chunk.js.LICENSE.txt"
+    "url": "/UliftU/static/js/2.7722ed7e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5dbcff3d66eadec11977",
-    "url": "/UliftU/static/js/main.02842d07.chunk.js"
+    "revision": "318791b4612664e40e86",
+    "url": "/UliftU/static/js/main.44189063.chunk.js"
   },
   {
     "revision": "8c3343de3ab97ca921b5",

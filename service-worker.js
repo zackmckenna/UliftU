@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/UliftU/precache-manifest.03ddbe1a8a1d988932e34443aff04a51.js"
+  "/UliftU/precache-manifest.3511288589d5bcda1ccbd24f4cf6b66e.js"
 );
 
 self.addEventListener('message', (event) => {

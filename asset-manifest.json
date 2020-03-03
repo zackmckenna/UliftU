@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/UliftU/static/css/main.e275826e.chunk.css",
-    "main.js": "/UliftU/static/js/main.02842d07.chunk.js",
-    "main.js.map": "/UliftU/static/js/main.02842d07.chunk.js.map",
+    "main.css": "/UliftU/static/css/main.3c863b1d.chunk.css",
+    "main.js": "/UliftU/static/js/main.44189063.chunk.js",
+    "main.js.map": "/UliftU/static/js/main.44189063.chunk.js.map",
     "runtime-main.js": "/UliftU/static/js/runtime-main.692f8196.js",
     "runtime-main.js.map": "/UliftU/static/js/runtime-main.692f8196.js.map",
     "static/css/2.47e06e2e.chunk.css": "/UliftU/static/css/2.47e06e2e.chunk.css",
-    "static/js/2.98eb6364.chunk.js": "/UliftU/static/js/2.98eb6364.chunk.js",
-    "static/js/2.98eb6364.chunk.js.map": "/UliftU/static/js/2.98eb6364.chunk.js.map",
+    "static/js/2.7722ed7e.chunk.js": "/UliftU/static/js/2.7722ed7e.chunk.js",
+    "static/js/2.7722ed7e.chunk.js.map": "/UliftU/static/js/2.7722ed7e.chunk.js.map",
     "index.html": "/UliftU/index.html",
-    "precache-manifest.03ddbe1a8a1d988932e34443aff04a51.js": "/UliftU/precache-manifest.03ddbe1a8a1d988932e34443aff04a51.js",
+    "precache-manifest.3511288589d5bcda1ccbd24f4cf6b66e.js": "/UliftU/precache-manifest.3511288589d5bcda1ccbd24f4cf6b66e.js",
     "service-worker.js": "/UliftU/service-worker.js",
     "static/css/2.47e06e2e.chunk.css.map": "/UliftU/static/css/2.47e06e2e.chunk.css.map",
-    "static/css/main.e275826e.chunk.css.map": "/UliftU/static/css/main.e275826e.chunk.css.map",
-    "static/js/2.98eb6364.chunk.js.LICENSE.txt": "/UliftU/static/js/2.98eb6364.chunk.js.LICENSE.txt",
+    "static/css/main.3c863b1d.chunk.css.map": "/UliftU/static/css/main.3c863b1d.chunk.css.map",
+    "static/js/2.7722ed7e.chunk.js.LICENSE.txt": "/UliftU/static/js/2.7722ed7e.chunk.js.LICENSE.txt",
     "static/media/action-athlete-barbell-841130.png": "/UliftU/static/media/action-athlete-barbell-841130.8a629e27.png",
     "static/media/logo-black.svg": "/UliftU/static/media/logo-black.4a385c2b.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.692f8196.js",
     "static/css/2.47e06e2e.chunk.css",
-    "static/js/2.98eb6364.chunk.js",
-    "static/css/main.e275826e.chunk.css",
-    "static/js/main.02842d07.chunk.js"
+    "static/js/2.7722ed7e.chunk.js",
+    "static/css/main.3c863b1d.chunk.css",
+    "static/js/main.44189063.chunk.js"
   ]
 }
